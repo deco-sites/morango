@@ -1,0 +1,1 @@
+export { default } from "deco-sites/morango/components/banners/Banners.tsx";
